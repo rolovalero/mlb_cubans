@@ -1,0 +1,58 @@
+{
+    "animation": true,
+    "autosave": 0,
+    "fileBrowser": {
+        "showHiddenFiles": false,
+        "sortByName": true
+    },
+    "maxFileSize": 10,
+    "filesNotAllowed": [
+        "zip",
+        "apk",
+        "doc",
+        "docx",
+        "mp3",
+        "mp4",
+        "avi",
+        "flac",
+        "mov",
+        "rar",
+        "pdf",
+        "gif",
+        "flv"
+    ],
+    "search": {
+        "caseSensitive": false,
+        "regExp": false,
+        "wholeWord": false,
+        "backwards": true
+    },
+    "lang": "en-us",
+    "fontSize": "12px",
+    "editorTheme": "ace/theme/nord_dark",
+    "appTheme": "default",
+    "textWrap": true,
+    "softTab": true,
+    "tabSize": 2,
+    "linenumbers": true,
+    "beautify": [
+        "*"
+    ],
+    "linting": false,
+    "autoCorrect": true,
+    "previewMode": "none",
+    "showSpaces": false,
+    "openFileListPos": "header",
+    "quickTools": true,
+    "editorFont": "default",
+    "vibrateOnTap": true,
+    "fullscreen": false,
+    "floatingButtonActivation": "click",
+    "floatingButton": true,
+    "liveAutoCompletion": true,
+    "showPrintMargin": false,
+    "scrollbarSize": 20,
+    "cursorControllerSize": "small",
+    "confirmOnExit": true,
+    "showConsole": true
+}
